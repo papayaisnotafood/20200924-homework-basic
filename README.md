@@ -52,3 +52,4 @@ Pull Request 前請確認以下事項：
 * 檔案放在自己學號的目錄下
 * 標題以「班級座號、學號、姓名」作為開頭
 * 其他說明事項可以在下面補充
+[![Run on Repl.it](https://repl.it/badge/github/papayaisnotafood/20200924-homework-basic)](https://repl.it/github/papayaisnotafood/20200924-homework-basic)
