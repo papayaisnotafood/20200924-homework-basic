@@ -8,6 +8,3 @@
 ---
 
 Repl 連結：
-
-[![Run on Repl.it](https://repl.it/@papayaistrash/20200924-homework-basic-2#755001/expense-app.cpp](https://repl.it/@papayaistrash/20200924-homework-basic-2#755001/expense-app.cpp)
-[![Run on Repl.it](https://repl.it/@papayaistrash/20200924-homework-basic-2#755001/mario.cpp)](https://repl.it/@papayaistrash/20200924-homework-basic-2#755001/mario.cpp)
