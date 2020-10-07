@@ -5,13 +5,14 @@ int main() {
     int height;
     cout << "請輸入高度： ";
     cin >> height;
-    for (int i = 0; i <= height; i++) {
-        for (int j = height - i; j >= i; j--) {
+    for ((int i = height; i > 0; i--) {
+        for (int j = i; j > 0; j--) {
         cout << " ";
         }
-        for (int k = 1; k < i + 1; k++) {
+        for ((int n = height - i + 1; n > 0; n--) {
         cout << "#";
         }
-    cout << '\n';
+        cout << '\n';
     }
 }
+
